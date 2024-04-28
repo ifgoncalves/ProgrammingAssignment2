@@ -1,3 +1,6 @@
+
+library(matlib)
+
 ## Essa função calcula a inversa da matriz (para as inversíveis)
 
 ## Armazenando os valores da matriz, e definindo as funções
